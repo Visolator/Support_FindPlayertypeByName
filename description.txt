@@ -1,0 +1,2 @@
+Name: FindPlayertypeByName (Support)
+Author: Visolator
